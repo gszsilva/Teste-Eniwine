@@ -30,3 +30,8 @@ Criei uma 'Library' (Game) para encapsular e manter o código organizado e somen
 
 ### Mobile First
 Utilizo sempre esse approach, focando no desenvolvimento mobile e crescendo conforme assertividade. Dado o grande número de usuários mobile, foco neste desenvolvimento.
+
+## Utilização
+
+Mantive a build caso necessário.
+Executar o arquivo index.html encontrado na pasta /dist
