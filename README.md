@@ -26,7 +26,7 @@ Foi utilizado o framework Bootstrap na sua versão 4 por conter diversos element
 Utilizei jQuery na maior parte das funções por facilitar e automatizar o desenvolvimento.
 Criei uma 'Library' (Game) para encapsular e manter o código organizado e somente uma função operava todo o setup da aplicação.
 
-### Layout
+## Layout
 
-#### Mobile First
+### Mobile First
 Utilizo sempre esse approach, focando no desenvolvimento mobile e crescendo conforme assertividade. Dado o grande número de usuários mobile, foco neste desenvolvimento.
